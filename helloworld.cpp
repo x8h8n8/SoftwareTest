@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-  cout<<"compile"<<endl;
+  cout<<"next compile"<<endl;
   return 0;
 }
